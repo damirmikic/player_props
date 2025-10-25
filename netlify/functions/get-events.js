@@ -1,4 +1,3 @@
-const fetch = require('node-fetch');
 
 exports.handler = async function (event, context) {
   // Primi 'sport' (ligu) iz query parametara
