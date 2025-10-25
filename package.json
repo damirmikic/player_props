@@ -1,0 +1,14 @@
+{
+  "name": "football-prop-builder",
+  "version": "1.0.0",
+  "description": "Netlify functions for football prop builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     /* Prazno - nije potrebno ništa za 'get-events' i 'get-odds' */
+  }
+}
